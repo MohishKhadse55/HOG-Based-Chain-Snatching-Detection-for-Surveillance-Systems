@@ -2,8 +2,9 @@
 ### Description:
 The Chain Snatching Detection in Surveillance System is a project that aims to detect chain snatching incidents in surveillance videos. The project utilizes computer vision techniques and machine learning algorithms to identify potential chain snatching events.
 ### Dataset
-The dataset consists of frames extracted from custom-created chain snatching videos. To avoid frame duplication, some continuous frames were skipped during the extraction process. 
- [Dataset](https://drive.google.com/drive/folders/1MM6HYdvfudjI_tIXQqLQeElMHBPXpZat?usp=sharing)
+The dataset consists of frames extracted from custom-created chain snatching videos. To avoid frame duplication, some continuous frames were skipped during the extraction process.
+I would suggest To create the custom dataset by considiring the different Scenarios like chain snatching on bike , on road, in crowded region  
+
 
 ### Block Diagram
 ![img.png](img.png)
